@@ -9,8 +9,4 @@ for b in a:
     elif b % 7 == 0:
         print(f"{b} is divisble by 7")
     elif b % 9 == 0:
-        print(f"{b} is divisble by 9")
-  
-
-   
-    
+        print(f"{b} is divisble by 9")  
